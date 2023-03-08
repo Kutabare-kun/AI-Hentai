@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Templates/CPackConfig.cmake.in
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/CompileDefinitions.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/GlfwImport.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/InstallConfigurations.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/JoinPaths.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/LibraryConfigurations.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/LibraryPathToLinkerFlags.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/PackConfigurations.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/PopulateConfigVariablesLocally.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/cmake/raylib-config-version.cmake
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/raylib.pc.in
+C:/Users/mrsmi/GameDev/AI Hentai/raylib-master/raylib-master/src/CMakeLists.txt

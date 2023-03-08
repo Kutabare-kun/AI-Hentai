@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\build\CMakeFiles\893d0bb9cbdb39b8c54ac6f0b07cbc1b\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1756E64A-2E74-31E8-B684-B1407DCF3167}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

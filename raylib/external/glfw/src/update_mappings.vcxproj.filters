@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\build\CMakeFiles\a1e9169403c08a12d3d9ed69a07477c4\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\src\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\src\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\src\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\mrsmi\GameDev\AI Hentai\raylib-master\raylib-master\build\raylib\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1756E64A-2E74-31E8-B684-B1407DCF3167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2CB0C5FF-5A26-3712-BD55-BEB22F21FEF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
